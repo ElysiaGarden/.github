@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" alt="Elysia Garden" width="100%"></p>
+
 # Elysia Garden
 
 Home of **Elysia**, a 1v1 Rocket League bot for RLBot v5 trained with reinforcement learning (PPO self-play in
